@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "dtreg"]
+	path = dtreg
+	url = https://gitlab.com/tibhannover/lki/knowledge-loom/dtreg-r
+[submodule "mrap"]
+	path = mrap
+	url = https://gitlab.com/tibhannover/lki/knowledge-loom/mrap-r
